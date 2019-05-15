@@ -1,3 +1,19 @@
+.ef-date-overlay {
+  background-color: #343a40;
+  padding: 1rem;
+  float: right;
+}
+
+.ef-img-card {
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+img {
+  max-width: 100%;
+}
+
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -199,7 +215,6 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  max-width: 100%
 }
 
 svg {

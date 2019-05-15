@@ -1,1 +1,17 @@
+.ef-date-overlay {
+    background-color: #343a40;
+    padding: 1rem;
+    float: right;
+}
+
+.ef-img-card {
+    height: 300px;
+    object-fit: cover;
+}
+
+img {
+    max-width: 100%
+}
+
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
